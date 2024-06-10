@@ -1,0 +1,8 @@
+.ionide
+.vscode
+.idea
+.vs
+**/obj
+**/bin
+**/*.user
+old_database_migration
